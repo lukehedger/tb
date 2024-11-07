@@ -1,0 +1,14 @@
+{
+  "name": "tb",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "tigerbeetle-node": "0.16.11"
+  }
+}
